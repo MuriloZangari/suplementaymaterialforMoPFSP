@@ -9,7 +9,7 @@ The file 'best-known-cmax-tft.tar.gz' is the best known results for the bi-objec
 
 The file 'best-known-cmax-tard.tar.gz' is the best known results for the bi-objective Makespan and Total Tardiness
 
-The file 'best-known-cmax-tft-tard.tar.gz' is the best known results for the tri-objective Makespan, Total Flowtime and Total Tardiness
+The file 'best-known-cmax-tft-tard.tar.gz' is the best known results for the tree-objective Makespan, Total Flowtime and Total Tardiness
 
 2) Supplentary Document:
 
