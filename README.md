@@ -5,7 +5,7 @@ Authors: Murilo Zangari, Aurora Pozo (Federal University of Paraná), Roberto Sa
 
 Corresponding author: Murilo Zangari (murilo.zangari@gmail.com)
 
-1) We have compiled the best known Pareto sets for each one of the 110 Taillard test instances used (available in http://soa.iti.es/problem-instances). These best known sets are given by the algortihms MEDA/D-MK and MOEA/D, different parameter settings and a maximum of (number of jobs x 1000) generations for each one of the three criteria combinations.
+1) We have compiled the best known Pareto sets for each one of the 110 Taillard test instances used (available in http://soa.iti.es/problem-instances). These best known sets are given by the algortihms MEDA/D-MK and MOEA/D, different parameter settings, and a maximum of (number of jobs x 1000) generations for each one of the three criteria combinations.
 
 The file 'best-known-cmax-tft.tar.gz' is the best known results for the objectives Makespan and Total Flowtime
 
