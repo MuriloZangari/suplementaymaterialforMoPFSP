@@ -15,6 +15,6 @@ The file 'best-known-cmax-tft-tard.tar.gz' is the best known results for the obj
 
 2) Supplentary Document:
 
-The document supplementaryResults.pdf includes additional tables and analysis of the results obtained for Makespan and Total Flowtime such as average Hypervolume and CPU time.
+The document 'supplementaryResults.pdf' includes additional tables and analysis of the results obtained for Makespan and Total Flowtime such as the average Hypervolume and CPU time.
 
 
