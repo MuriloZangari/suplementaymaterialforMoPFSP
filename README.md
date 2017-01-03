@@ -7,11 +7,11 @@ Corresponding author: Murilo Zangari (murilo.zangari@gmail.com)
 
 1) We have compiled the best known Pareto sets for each one of the 110 Taillard test instances used (available in http://soa.iti.es/problem-instances). These best known sets are given by the algortihms MEDA/D-MK and MOEA/D, different parameters settings and maximum number of generations.
 
-The file 'best-known-cmax-tft.tar.gz' is the best known results for the bi-objective Makespan and Total Flowtime
+The file 'best-known-cmax-tft.tar.gz' is the best known results for the objectives Makespan and Total Flowtime
 
-The file 'best-known-cmax-tard.tar.gz' is the best known results for the bi-objective Makespan and Total Tardiness
+The file 'best-known-cmax-tard.tar.gz' is the best known results for the objectives Makespan and Total Tardiness
 
-The file 'best-known-cmax-tft-tard.tar.gz' is the best known results for the tree-objective Makespan, Total Flowtime and Total Tardiness
+The file 'best-known-cmax-tft-tard.tar.gz' is the best known results for the objectives Makespan, Total Flowtime and Total Tardiness
 
 2) Supplentary Document:
 
