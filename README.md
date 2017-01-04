@@ -9,10 +9,8 @@ Corresponding author: Murilo Zangari (murilo.zangari@gmail.com)
 
 We have conducetd an experimental study using the 110 Taillard test instances optimizing the Makespan and Total Flowtime (The benchmark is available in http://soa.iti.es/problem-instances). 
 
-We have compiled our best known aproximated Pareto fronts by the union of the sets produced by the algortihms MEDA/D-MK and MOEA/D, several runs, and different parameter settings. The sets  'best-known-cmax-tft.tar.gz' contain our 110 best known sets.
+We have compiled our best known sets by the union of the approximated Pareto fronts produced by the algortihms MEDA/D-MK and MOEA/D, several runs, and different parameter settings. You can find our best known sets downloading the file 'best-known-cmax-tft.tar.gz'.
 
 2) Supplentary Document:
 
 The document 'supplementaryResults.pdf' includes additional tables and analysis of the results obtained for Makespan and Total Flowtime such as the average Hypervolume and CPU time.
-
-
