@@ -7,11 +7,9 @@ Corresponding author: Murilo Zangari (murilo.zangari@gmail.com)
 
 1) Best known approximated Pareto fronts:
 
-We have conducetd an experimental study using the 110 Taillard test instances (The benchmark is available in http://soa.iti.es/problem-instances). 
+We have conducetd an experimental study using the 110 Taillard test instances optimizing the Makespan and Total Flowtime (The benchmark is available in http://soa.iti.es/problem-instances). 
 
-We have compiled our best known aproximated Pareto fronts by the union of the sets produced by the algortihms MEDA/D-MK and MOEA/D, several runs, and different parameter settings.
-
-The file 'best-known-cmax-tft.tar.gz' contain our 110 best known sets optimizing the Makespan and Total Flowtime
+We have compiled our best known aproximated Pareto fronts by the union of the sets produced by the algortihms MEDA/D-MK and MOEA/D, several runs, and different parameter settings. The sets  'best-known-cmax-tft.tar.gz' contain our 110 best known sets.
 
 2) Supplentary Document:
 
